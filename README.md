@@ -57,7 +57,7 @@ WearMatch/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/WearMatch.git
+git clone https://github.com/Southern-Equinox/WearMatch.git
 ```
 
 Move into the project
